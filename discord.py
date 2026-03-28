@@ -728,4 +728,4 @@ async def unban(ctx, user_identifier: str = None):
 
 
 # Запуск бота
-bot.run('MTQ4MDI0NjYxMzI3NTQ0NzM0Nw.GNCSl2.UnKWAQrUFZebq-89ebCea23gSyWrn4Ao_g3XnI')  # Замените на токен вашего бота
+bot.run('')  # Замените на токен вашего бота
